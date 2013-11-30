@@ -1,3 +1,11 @@
+# Ruby on Rails Tutorial: Homework application
+This is the sample Homework application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
+I am trying to reinforce the learning from the sample app.
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
