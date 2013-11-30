@@ -1,0 +1,4 @@
+# Ruby on Rails Tutorial: Homework application
+This is the sample Homework application for
+
+I am trying to reinforce the learning from the sample app.
